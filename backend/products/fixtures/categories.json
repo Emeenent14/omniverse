@@ -1,0 +1,42 @@
+[
+    {
+        "model": "products.category",
+        "pk": 1,
+        "fields": {
+            "name": "Electronics",
+            "description": "Electronic devices and accessories"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 2,
+        "fields": {
+            "name": "Clothing",
+            "description": "Clothes and fashion accessories"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 3,
+        "fields": {
+            "name": "Books",
+            "description": "Books and publications"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 4,
+        "fields": {
+            "name": "Home & Kitchen",
+            "description": "Home appliances and kitchen gadgets"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 5,
+        "fields": {
+            "name": "Beauty & Personal Care",
+            "description": "Beauty products and personal care items"
+        }
+    }
+]
